@@ -1,5 +1,5 @@
 /*
-	Objective of this code is to find the  total no. of tag in an XML file
+	Objective of this code is to find the  total no. of particular tag elemnet in an XML file
 */
 
 import javax.xml.stream.XMLEventReader;
